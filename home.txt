@@ -1,0 +1,76 @@
+
+              resize: both;
+              color : rgb(13, 14, 13);
+              overflow: auto;
+              font-family: cursive;
+              background-color:#333;
+            }
+            body {
+                  background-image: url("https://www.ecopetit.cat/wpic/mpic/6-65811_funny-owls-paint-cartoon-wallpaper-picture-hd-free.jpg");
+                  background-position: center; /* Center the image */
+                  background-repeat: no-repeat; /* Do not repeat the image */
+                  background-size: cover;
+                  background-color: turquoise;
+            }
+           .topnav {
+                  background-color: #333;
+                  overflow: hidden;
+            }
+           .topnav a {
+                  float: right;
+                  color: #f2f2f2;
+                  text-align: center;
+                  padding: 14px 16px;
+                  text-decoration: none;
+                  font-size: 17px;
+                  height:25px;
+            }
+           .topnav a:hover {
+                  background-color: #ddd;
+                  color: black;
+            }
+           .topnav a.active {
+                  background-color: #4CAF50;
+                  color: white;
+            }
+           .topnav-right {
+                  float: right;
+            }
+           .div1{
+                  text-align: center;
+                  font-family: cursive;
+            }   
+                
+            }
+           
+        </style>
+        <title>
+             Chirag Kumar Sharma
+        </title>
+        
+    </head>
+    <body >
+
+    
+
+        <div class="myDiv">
+            <div class="topnav">
+                <a href="contact">Contact</a>
+                <a href="#projects">Projects</a>
+                <a href="#about">About</a>
+                <a href="#home">Home</a>
+                <br> 
+            </div> 
+        </div>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        
+        <div class="div1">
+            <h1 style="color: rgb(10, 10, 10);" style="text-align: center;">Chirag Kumar Sharma</h1>
+            <h3 style="color: rgb(10, 10, 10);" style="text-align:center">Developer Loading....</h3>
+        </div>
+
+        
+        
+    </body>
+</html>
